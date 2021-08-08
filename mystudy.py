@@ -15,6 +15,3 @@ def check(driver, registered_list, arrested_list, num_suspects):
         return True
     else:
         return False
-
-def checkProcess():
-    return "1"
